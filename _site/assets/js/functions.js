@@ -24,7 +24,7 @@ $( document ).ready(function() {
 
 	});
 
-	smoothScroll(1000);
+	smoothScroll(2000);
 	workBelt();
 	workLoad();
 	clientStuff();
