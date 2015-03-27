@@ -601,6 +601,7 @@ header, footer {
   background-size: 78px 78px, cover; }
 
 header {
+  z-index: -1;
   position: fixed;
   width: 100%;
   height: 430px;
