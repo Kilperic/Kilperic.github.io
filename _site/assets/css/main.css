@@ -1243,7 +1243,7 @@ footer {
   left: 50%;
   margin-left: -125px;
   background-color: #646464;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: transparent;
   color: white;
   padding: 8px; }
 
@@ -1252,7 +1252,7 @@ footer {
   width: 100%;
   position: absolute;
   z-index: 2;
-  background-color: rgba(0, 0, 0, 0.1); }
+  background-color: rgba(0, 0, 0, 0.15); }
 
 .embed-container iframe {
   width: 100%; }
