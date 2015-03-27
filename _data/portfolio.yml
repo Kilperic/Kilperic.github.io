@@ -1,0 +1,84 @@
+
+# Portfolio settings
+title: Kilperic Silcock
+headline: Kilperic<br>Silcock 
+email: kilperic.silcock@gmail.com
+description: "- Print + Web + Design -"
+baseurl: "/My-Website"
+url: "http://yourdomain.com"
+
+# Menu Item List
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Testimonials, url: '#testimonials'}
+- {name: Contact, url: '#contact'}
+
+# SEO Section
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Portfolio Website of Kilperic Silcock'
+  rel-author: 'http://twitter.com/kilperic'
+  rel-publisher: 'http://twitter.com/kilperic'
+
+# Skill List
+
+skills:
+- {name: Communication, value: '8'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '9'}
+- {name: Planning, value: '6'}
+- {name: Print Design, value: '8'}
+- {name: Web Design, value: '9'}
+- {name: UX Design, value: '8'}
+- {name: Coding, value: '7'}
+
+# Change the Site default images and content
+
+# avatar: face.jpg
+blurb: <p><strong><center>Hello! I'm Kilperic, freelance Print/Web Designer and Front-End Developer based in Warsaw.</center></strong>My engineer background helps me turn complex problems into simple ones, and I enjoy making clean and intuitive interface designs. When I'm not pushing pixels or coding, you'll find me in the gym or in front of a good Movie, a TV-Show, or a Game.</p>
+
+
+# Project List
+
+projects:
+- {name: Classes en Actions Visual Identity, folder: 'proj-1'}
+- {name: Designin Creative Studio Logo & Branding, folder: 'proj-2'}
+- {name: My Curriculum Vitae, folder: 'proj-3'}
+
+# Testimonials Section
+
+
+clients:
+- {avatar: 'face-sabichou.jpg', name: 'Soufiane Abichou', title: 'C.E.O., Classes en Actions', quote: '<p><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</strong> Ex, natus. Ipsam molestias dignissimos beatae amet sit vitae nam magni odio aut architecto omnis ad modi soluta sequi, facilis incidunt neque dolorum excepturi, quae fugiat non, nemo cupiditate! Dolores harum quibusdam blanditiis aperiam molestiae, ad in. Molestias eum animi laudantium totam.</p>', logo: 'logo1.png'}
+- {avatar: 'face-ksilcock.jpg', name: 'Kilperic Silcock', title: 'C.E.O., Designin Creative Studio', quote: '<p><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</strong> Ex, natus. Ipsam molestias dignissimos beatae amet sit vitae nam magni odio aut architecto omnis ad modi soluta sequi, facilis incidunt neque dolorum excepturi, quae fugiat non, nemo cupiditate! Dolores harum quibusdam blanditiis aperiam molestiae, ad in. Molestias eum animi laudantium totam.</p>', logo: 'logo2.png'}
+
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/kilperic'}
+- {icon: 'behance', link: 'http://behance.net/kilperic_silcock'}
+- {icon: 'dribbble2', link: 'http://dribbble.com/kilperic'}
+- {icon: 'pinterest-p', link: 'http://pinterest.com/kilperic'}
+- {icon: 'tumblr', link: 'http://kilperic.tumblr.com'}
+- {icon: 'linkedin', link: 'http://pl.linkedin.com/in/kilperic'}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
