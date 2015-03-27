@@ -14,7 +14,15 @@ $( document ).ready(function() {
 	});
 
 
-	$('#scene').parallax();
+	$(function() {
+
+		if($(window).width()>480){
+
+			$('#scene').parallax();
+
+		} else{}
+
+	});
 
 	smoothScroll(1000);
 	workBelt();
@@ -43,6 +51,7 @@ $( document ).ready(function() {
 	$('.map.embed-container').on('click', onMapClickHandler);
 
 });
+
 
 // smoothScroll function is applied from the document ready function
 
