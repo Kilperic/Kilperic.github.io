@@ -29,7 +29,8 @@ $( document ).ready(function() {
 	workLoad();
 	clientStuff();
 
-	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
+	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '150px' });
+	//$("header p").fitText(1, { minFontSize: '12px', maxFontSize: '30px' });
 
 	//using jquery...
 	var onMapMouseleaveHandler = function (event) {

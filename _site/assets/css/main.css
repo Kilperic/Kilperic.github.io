@@ -557,7 +557,7 @@ body {
   color: #2E2D33;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
-  padding-top: 429px; }
+  padding-top: 100vh; }
 
 svg {
   height: 100%;
@@ -604,28 +604,29 @@ header {
   z-index: -1;
   position: fixed;
   width: 100%;
-  height: 430px;
+  height: 100vh;
   top: 0;
   background-position: 30px 30px, 50% bottom;
   background-image: url(../img/logo.svg), url(../img/bg-filter.jpg); }
   header h1 {
     text-align: center;
-    font-size: 72px;
+    font-size: 150px;
     font-weight: bold;
-    color: white;
+    color: rgba(255, 255, 255, 0.8);
     text-transform: uppercase;
     letter-spacing: 0.2em;
     margin-top: 0px;
     margin-bottom: 20px;
     clear: both;
-    padding-top: 148px; }
+    padding-top: 30vh; }
     header h1 span {
       display: inline-block;
       padding: 1% 2%;
-      border: white solid 5px; }
+      border: white solid 7px; }
   header .kicker {
     text-align: center;
     color: white;
+    font-size: 14px;
     font-weight: regular;
     text-transform: uppercase;
     letter-spacing: 0.2em;
@@ -635,7 +636,7 @@ header {
   header {
     background-position: center 30px, 50% bottom; }
     header h1 {
-      padding-top: 188px; } }
+      padding-top: 35vh; } }
 .main-nav {
   position: relative;
   text-align: center;
