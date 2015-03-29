@@ -1306,7 +1306,7 @@ form {
     height: 200px; }
 
   form {
-    max-width: 250px; }
+    max-width: 300px; }
     form .contact-info-group label {
       width: 100%; }
       form .contact-info-group label:nth-child(1) {
